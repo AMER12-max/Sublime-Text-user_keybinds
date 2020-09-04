@@ -28,7 +28,7 @@ To change the keybindings first go into 'Preferences' ==> 'Key Bindings'
 
 Then change the shortcuts as you want(the code in the square brackets[] is where the shortcuts are)
 
-DEFAULTS:
+# DEFAULTS:
 
 Ctrl+alt+q --> go to start of line
 
