@@ -25,3 +25,13 @@ Ctrl+S to save(may also need to restart Sublime Text)
 # Customising Keybindings
 
 To change the keybindings first go into 'Preferences' ==> 'Key Bindings'
+
+Then change the shortcuts as you want(the code in the square brackets[] is where the shortcuts are)
+
+DEFAULTS:
+
+Ctrl+alt+q --> go to start of line
+
+Ctrl+alt+e --> go to the end of the line
+
+Ctrl+alt+b --> run the current python file in a python interpreter(WARNING: Requires package SublimeREPL to be installed: https://packagecontrol.io/packages/SublimeREPL)
