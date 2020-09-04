@@ -2,7 +2,7 @@
     { "keys": ["ctrl+alt+q"], "command": "move_to", "args": {"to": "bol", "extend": false} },
 	{ "keys": ["ctrl+alt+e"], "command": "move_to", "args": {"to": "eol", "extend": false} },
    //install SublimeREPL before this
-    { "keys": ["ctrl+alt+a"], "command": "run_existing_window_command", "args":
+    { "keys": ["ctrl+alt+b"], "command": "run_existing_window_command", "args":
     {
         "id": "repl_python_run",
         "file": "config/Python/Main.sublime-menu"
