@@ -1,4 +1,5 @@
 [
+    // Ctrl+alt+q goes to the start of the line and Ctrl+alt+e goes to the end of the line(OPTIONAL: can remove this line)
     { "keys": ["ctrl+alt+q"], "command": "move_to", "args": {"to": "bol", "extend": false} },
     { "keys": ["ctrl+alt+e"], "command": "move_to", "args": {"to": "eol", "extend": false} },
    //install SublimeREPL before this
