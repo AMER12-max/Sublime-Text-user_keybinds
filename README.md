@@ -8,6 +8,9 @@ WINDOWS AND LINUX ONLY
 STEP 1:
 
 Terminal : 'git clone https://github.com/AMER12-max/Sublime-Text-user_keybinds/'
+
+(may require Git Bash on Windows: https://git-scm.com/downloads)
+
 Can also clone the repository directly through Github
 
 STEP 2:
